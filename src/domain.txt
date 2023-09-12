@@ -1,0 +1,6 @@
+Order of Deletion:
+
+1. Report 
+2. Vehicle
+3. Customer
+4. Employee
